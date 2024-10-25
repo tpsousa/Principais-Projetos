@@ -1,6 +1,6 @@
-# Project Spotlight✨
+# Principais projetos✨
 
-Bem-vindo ao repositório de **Projetos em Destaque**! Eu sou o **Thiago**, um desenvolvedor back-end apaixonado por resolver problemas complexos através de APIs bem projetadas e arquiteturas seguras e escaláveis. Neste repositório, apresento alguns dos meus projetos mais empolgantes e significativos, que refletem minha jornada na tecnologia e resolução de problemas.
+Bem-vindo ao repositório de **Principais Projetos**! Eu sou o **Thiago**, um desenvolvedor back-end apaixonado por resolver problemas complexos através de APIs bem projetadas e arquiteturas seguras e escaláveis. Neste repositório, apresento alguns dos meus projetos mais empolgantes e significativos, que refletem minha jornada na tecnologia e resolução de problemas.
 
 Cada projeto demonstra não apenas minhas habilidades técnicas, mas também minha dedicação em criar soluções impactantes. Dê uma olhada e fique à vontade para explorar!
 
