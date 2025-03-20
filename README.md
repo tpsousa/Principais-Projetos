@@ -25,7 +25,7 @@ Estudante de Ciência da Computação com forte interesse no desenvolvimento bac
 - **Destaque:** Ilustra minha habilidade em implementar segurança e controle de acesso em aplicações, utilizando middleware para proteger endpoints.
   
 ---
-### [![API-PLAYLIST](https://img.shields.io/badge/API--PLAYLIST-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/api_playlist) API-PLAYLIST  
+### [![algorithms and data-structures](https://img.shields.io/badge/API--PLAYLIST-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tpsousa/api_playlist) API-PLAYLIST  
 - **O que é:** Uma API para criar e gerenciar playlists. Tem autenticação de usuários, proteção de rotas com JWT.  
 - **Tecnologias:** Node.js, Express, APIs RESTful, JWT.  
 - **Destaque:** Este projeto reflete minha experiência em autenticação e segurança, demonstrando boas práticas para proteger dados e criar APIs confiáveis.
